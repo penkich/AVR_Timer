@@ -1,5 +1,5 @@
 /*
- * adc_test1.c
+ * AVR_Timer.c
  *
  * Created: 2019/10/15 7:47:49
  * Author : penkich
